@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Eggspress!"
+title: "Welcome to my Demo Project!"
 date: "2023-10-25T00:00:00-0400"
 weight: 20
 subtitle: ""
