@@ -1,7 +1,7 @@
 ---
 fontFamily: "Raleway"
 
-colorScheme: "Seaside"
+colorScheme: "seaside"
 theme: "eggspress"
 
 sidebar: "index"
